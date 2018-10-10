@@ -1,1 +1,1 @@
-I created this notebook to find the best model for matching items in two datasets using fuzzy logic.  Please excuse the excessive number of functions that aren't related to the best performing model.  I would like to keep these functions just in case I revist any other approaches I tried.  
+
